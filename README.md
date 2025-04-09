@@ -131,7 +131,7 @@ ____
 :black_square_button: делать или не делать, вот в чем вопрос?    
 ```
 
-Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/hagok/README-cheat-sheet/emoji.md)    
+Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/hagok/README-cheat-sheet/blob/main/emoji.md)    
     
 [:arrow_up:Оглавление](#Оглавление)
 ___
